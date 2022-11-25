@@ -1,6 +1,6 @@
-# yellow_page_assignment
+# Youtube Clone App
 
-A new Flutter project.
+It's a youtube clone made using flutter.
 
 ## Getting Started
 
